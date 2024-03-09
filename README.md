@@ -7,6 +7,50 @@ Bookify is a powerful accommodation booking application developed using Angular 
 ## Course Information
 This project is part of the coursework for the course "Inzenjerstvo klijentskog sloja" (Client-Side Engineering) at [Fakultet Tehničikih Nauka](https://www.ftn.uns.ac.rs/). The goal of the project is to apply the concepts learned during the course and showcase practical skills in developing the client-side of web applications.
 
+## Preview of Key Features
+
+### Searching and Filtering Accommodations
+
+Effortlessly find the perfect accommodation with our advanced search and filtering options, including:
+
+- **Location**
+- **Availability Date**
+- **Number of Persons**
+- **Price**
+- **Amenities**
+- **Accommodation Type**
+
+![Filter Preview](images/filter.png)
+
+### Accommodation Details
+
+Explore comprehensive details about accommodations, including:
+
+- **Slideshow of Pictures**
+- **Detailed Descriptions**
+- **Option to Reserve (for logged-in guests)**
+- **User Comments and Reviews**
+
+![Details Preview](images/details.png)
+
+### Reports
+
+Stay informed about the performance and status of your accommodations effortlessly.
+Generate insightful reports and download them, including two types:
+
+- **By Accommodation**
+- **By Period**
+
+![Reports Preview](images/reports.png)
+
+### Requests Management
+
+Efficiently manage reservation requests with easy filtering options and status updates.
+
+![Requests Preview](images/requests.png)
+
+---
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for using, development and testing purposes. 
@@ -81,50 +125,6 @@ Visit `http://localhost:4200/` in your browser.
 - **Sockjs-client**: WebSocket emulation - SockJS client. 
 - **Stompjs**: Stomp client for Web browsers (using WebSockets). - **Tslib** (^2.3.0): Runtime library for TypeScript helpers. 
 - **Zone.js**: Zones for JavaScript.
-
----
-
-## Preview of Key Features
-
-### Searching and Filtering Accommodations
-
-Effortlessly find the perfect accommodation with our advanced search and filtering options, including:
-
-- **Location**
-- **Availability Date**
-- **Number of Persons**
-- **Price**
-- **Amenities**
-- **Accommodation Type**
-
-![Filter Preview](images/filter.png)
-
-### Accommodation Details
-
-Explore comprehensive details about accommodations, including:
-
-- **Slideshow of Pictures**
-- **Detailed Descriptions**
-- **Option to Reserve (for logged-in guests)**
-- **User Comments and Reviews**
-
-![Details Preview](images/details.png)
-
-### Reports
-
-Stay informed about the performance and status of your accommodations effortlessly.
-Generate insightful reports and download them, including two types:
-
-- **By Accommodation**
-- **By Period**
-
-![Reports Preview](images/reports.png)
-
-### Requests Management
-
-Efficiently manage reservation requests with easy filtering options and status updates.
-
-![Requests Preview](images/requests.png)
 
 ## Authors
 
