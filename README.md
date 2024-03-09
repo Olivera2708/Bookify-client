@@ -2,6 +2,8 @@
 
 Bookify is a powerful accommodation booking application developed using Angular 17 and several key technologies. It offers a robust platform for users to seamlessly book accommodations, with features such as real-time availability and recommendations.
 
+![Home]("images/home.png")
+
 ## Course Information
 This project is part of the coursework for the course "Inzenjerstvo klijentskog sloja" (Client-Side Engineering) at [Fakultet Tehničikih Nauka](https://www.ftn.uns.ac.rs/). The goal of the project is to apply the concepts learned during the course and showcase practical skills in developing the client-side of web applications.
 
@@ -79,6 +81,9 @@ Visit `http://localhost:4200/` in your browser.
 - **Sockjs-client**: WebSocket emulation - SockJS client. 
 - **Stompjs**: Stomp client for Web browsers (using WebSockets). - **Tslib** (^2.3.0): Runtime library for TypeScript helpers. 
 - **Zone.js**: Zones for JavaScript.
+
+## Preview
+
 
 ## Authors
 
